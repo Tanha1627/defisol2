@@ -1,0 +1,27 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "pool": "0x7012E7b94168A75A264830c93c6BFfA57BD1d23E",
+  "oracle": "0xeC0e12D7F940d491064E5CE9bDCFD0f5B9E47CeE",
+  "assets": {
+    "WETH": {
+      "token": "0xd95227B5124E5dB763f245bAE867a96DA2c4EE0B",
+      "aToken": "0xCE5Dee91BCe59788412F769bb2911Ada3405252c",
+      "debtToken": "0x1e233C0740841D0eF209122E0352584Aaed044A3",
+      "decimals": 18
+    },
+    "USDC": {
+      "token": "0xF0A714672F494D417009A514FeE78CFD400Cf1F3",
+      "aToken": "0x1a47CB4CA89E86E1155A83FcA9351030Fc79528e",
+      "debtToken": "0xE037eF164c0e69c92b81AFD7ffb7e813e25b6BfC",
+      "decimals": 6
+    },
+    "DAI": {
+      "token": "0x21231eA5A68FBf18D8326e18A1d8ece9737a49D8",
+      "aToken": "0x0927b7B989618dbE34eBcDFbAbe91AC16A86402C",
+      "debtToken": "0xC7E374a53C7B6A5e1Ce17a3D770E63Ffb4d47De2",
+      "decimals": 18
+    }
+  },
+  "deployedAt": "2026-09-24T15:21:25.466Z"
+}
